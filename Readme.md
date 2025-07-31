@@ -4,13 +4,13 @@
 
 ## Struktur Folder dan File
 
-- `StreamWise.ipynb`: Notebook Jupyter utama yang berisi analisis lengkap.
-- `Genre Table.xlsx`: Data tabel genre film sebagai referensi klasifikasi.
+- `StreamWise(Bahasa).ipynb`: Notebook Jupyter utama berbahasa Indonesia yang berisi analisis lengkap.
+- `StreamWise(English).ipynb`: Notebook Jupyter utama berbahasa Inggris untuk analisis.
+- `Genre_Table.xlsx`: Data tabel genre film sebagai referensi klasifikasi.
 - `Rotten Tomatoes Movies.csv`: Dataset film dalam format CSV.
 - `Rotten Tomatoes Movies Clean.xlsx`: Dataset film hasil pembersihan.
-- `StreamWise.pptx`: Presentasi hasil analisis.
+- `StreamWise_Presentation(Bahasa).pptx`: Presentasi hasil analisis dalam bahasa Indonesia.
 - `StreamWise.twbx`: Workbook Tableau untuk visualisasi data interaktif.
-- `~StreamWise_21864.twbr`: File backup atau versi Tableau.
 - `Readme.md`: Dokumentasi proyek.
 
 ## Deskripsi Proyek
